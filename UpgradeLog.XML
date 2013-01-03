@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="DemoCancel">
+</Property><Property Name="Solution File" Value="C:\Users\geokd\SkyDrive\Devs\C_Sharp\z_BackgroundWorker\DemoCancel.sln">
+</Property><Property Name="Date" Value="02 January 2013">
+</Property><Property Name="Time" Value="16:21">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="DemoCancel.sln" Description="File successfully backed up as C:\Users\geokd\SkyDrive\Devs\C_Sharp\z_BackgroundWorker\Backup\DemoCancel.sln">
+</Event><Event ErrorLevel="0" Project="DemoCancel" Source="DemoCancel.csproj" Description="Project file successfully backed up as C:\Users\geokd\SkyDrive\Devs\C_Sharp\z_BackgroundWorker\Backup\DemoCancel.csproj">
+</Event><Event ErrorLevel="0" Project="DemoCancel" Source="fmMain.cs" Description="File successfully backed up as C:\Users\geokd\SkyDrive\Devs\C_Sharp\z_BackgroundWorker\Backup\fmMain.cs">
+</Event><Event ErrorLevel="0" Project="DemoCancel" Source="fmMain.Designer.cs" Description="File successfully backed up as C:\Users\geokd\SkyDrive\Devs\C_Sharp\z_BackgroundWorker\Backup\fmMain.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DemoCancel" Source="fmProgress.cs" Description="File successfully backed up as C:\Users\geokd\SkyDrive\Devs\C_Sharp\z_BackgroundWorker\Backup\fmProgress.cs">
+</Event><Event ErrorLevel="0" Project="DemoCancel" Source="fmProgress.Designer.cs" Description="File successfully backed up as C:\Users\geokd\SkyDrive\Devs\C_Sharp\z_BackgroundWorker\Backup\fmProgress.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DemoCancel" Source="Program.cs" Description="File successfully backed up as C:\Users\geokd\SkyDrive\Devs\C_Sharp\z_BackgroundWorker\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="DemoCancel" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\geokd\SkyDrive\Devs\C_Sharp\z_BackgroundWorker\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="DemoCancel" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\geokd\SkyDrive\Devs\C_Sharp\z_BackgroundWorker\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DemoCancel" Source="Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\geokd\SkyDrive\Devs\C_Sharp\z_BackgroundWorker\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DemoCancel" Source="Properties\Settings.settings" Description="File successfully backed up as C:\Users\geokd\SkyDrive\Devs\C_Sharp\z_BackgroundWorker\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="DemoCancel" Source="fmMain.resx" Description="File successfully backed up as C:\Users\geokd\SkyDrive\Devs\C_Sharp\z_BackgroundWorker\Backup\fmMain.resx">
+</Event><Event ErrorLevel="0" Project="DemoCancel" Source="fmProgress.resx" Description="File successfully backed up as C:\Users\geokd\SkyDrive\Devs\C_Sharp\z_BackgroundWorker\Backup\fmProgress.resx">
+</Event><Event ErrorLevel="0" Project="DemoCancel" Source="Properties\Resources.resx" Description="File successfully backed up as C:\Users\geokd\SkyDrive\Devs\C_Sharp\z_BackgroundWorker\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="1" Project="DemoCancel" Source="DemoCancel.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="DemoCancel" Source="DemoCancel.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="DemoCancel" Source="DemoCancel.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="DemoCancel.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="DemoCancel.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DemoCancel" Source="DemoCancel.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
