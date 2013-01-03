@@ -1,0 +1,17 @@
+Zone Design Studio (ZDS)
+
+ZDS is a set of computational applications, which seeks to optimise objective functions such as similarity or target population sizes, zone compactness and social homogeneity, while grouping a large number of areal units into a smaller number of output areas (zones). The ZDS is consisted of the following applications:
+
+
+1: Contiguity And Data builder (arCADia)
+   Main features: On Progress.
+2: ZOne DesIgn Algorithm (ZODIAc)
+   Main features: On Progress.
+3: Aic AggREgation system (AwARE)
+   Main features: On Progress.
+4: Gpu AggregaTion system (GATe)
+   Main features: On Progress.
+5: Openshaw's zOne Procedure (lOOP)
+   Main features: On Progress.
+6: EXhaustive AggregaTion system (EXAcT)
+   Main features: On Progress.
