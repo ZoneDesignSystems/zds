@@ -1,0 +1,16 @@
+﻿<Properties>
+  <AuthorInfo Name="Konstantinos Daras" Email="Konstantinos.Daras@gmail.com" Copyright="Zone Design Systems" Company="Zone Design Systems" Trademark="ZDS" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ZDS.arCADia\Main.cs">
+    <Files>
+      <File FileName="ZDS.Core\Contiguity\Test.cs" Line="1" Column="1" />
+      <File FileName="ZDS.arCADia\Main.cs" Line="44" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\geokd\SkyDrive\Devs\C_Sharp\ZDS\ZDS.arCADia\Main.cs" line="40" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
