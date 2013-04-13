@@ -42,8 +42,7 @@
     <Reference Include="NetTopologySuite">
       <HintPath>..\Libs\NTS\NetTopologySuite.dll</HintPath>
     </Reference>
-    <Reference Include="SharpMap, Version=0.9.3946.23110, Culture=neutral, processorArchitecture=x86">
-      <SpecificVersion>False</SpecificVersion>
+    <Reference Include="SharpMap">
       <HintPath>..\Libs\SharpMap\SharpMap.dll</HintPath>
     </Reference>
     <Reference Include="System" />
